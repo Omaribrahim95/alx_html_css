@@ -14,5 +14,4 @@
 <h2>Here the final result:</h2>
 <img src="images/final_result.jpg" alt="">
 </body>
-
 </html>
