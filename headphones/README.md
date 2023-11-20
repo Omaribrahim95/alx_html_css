@@ -1,3 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Description: </title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+    <p>This Is So Cool</p>
+</body>
+
+</html>
 <title> Description: </title>
 In this project, you will implement from scratch, without any library, a web page. You will use all HTML/CSS/Accessibility/Responsive design knowledges that you learned previously.
 
