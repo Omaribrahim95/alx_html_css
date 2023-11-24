@@ -277,15 +277,15 @@ header .navbar a:hover {
     color: #071629;
     font-size: 60px;
     font-weight: 300;
-    margin-bottom: 70px;
+    margin-bottom: 50px;
 }
 .FAQ .faq {
     text-align: start;
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 250px;
-    margin-bottom: 100px;
+    gap: 100px;
+    margin-bottom: 50px;
 }
 .faq h2 {
     color: #071629;
@@ -312,6 +312,7 @@ header .navbar a:hover {
     justify-content: space-around;
     align-items: center;
     margin-bottom: 50px;
+    gap: 10px;
 }
 .foot p {
 
